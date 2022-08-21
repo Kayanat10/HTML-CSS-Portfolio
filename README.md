@@ -1,2 +1,2 @@
 # HTML-CSS-Portfolio
-Portfolio using HTML,CSS and javascript.
+Portfolio using HTML,CSS and Javascript.
